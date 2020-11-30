@@ -1,0 +1,13 @@
+name: parcial_fase2
+title: parcial_fase2
+username:
+account: rebecacarrera
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3320922
+bundleId: 3920719
+url: https://rebecacarrera.shinyapps.io/parcial_fase2/
+when: 1606697482.28612
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ~$cumentacion.docx|Documentacion.docx|Link ShinyIO.txt

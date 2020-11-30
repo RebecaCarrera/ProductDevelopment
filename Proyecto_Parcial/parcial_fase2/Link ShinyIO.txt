@@ -1,0 +1,9 @@
+Curso: Product Development
+Integrantes:
+	Lilian Rebeca Carrera Lemus
+	José Armando Barrios León
+Tarea: Proyecto Parcial Fase2
+
+Link de la Publicación en ShinyIO:
+
+https://rebecacarrera.shinyapps.io/parcial_fase2/
